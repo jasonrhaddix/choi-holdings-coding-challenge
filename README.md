@@ -1,4 +1,8 @@
-# choi-holdings-coding-challenge
+# Choi Holdings Coding Challenge
+
+## Overview
+
+This is repository for the Choi Holdings coding challenge for Front-end Vue Engineer.
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
