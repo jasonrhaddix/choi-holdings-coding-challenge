@@ -15,8 +15,10 @@ My primary focus when building out this project was to demonstrate my strengths 
 3. Add a grid system and responsive strat -- Bootstrap, Foundation or even Vuetify for their UI elements. Wallet page should be a grid.
 4. CSS is a bit disorganized
 5. Create a `normalize` or `reset` stylesheet
-6. Error handling and persist for network connections
+6. Error handling and persistence for network connections
 7. Componentize reusable elements and emit events where needed, i.e. Checkboxes, logos, etc.
+8. Add functionality to change how you connect. All 3 selectors use Metamask.
+9. Button selection and disabled states
 
 ##### Vuex
 1. Use modules and global constants for namespacing (or use `namespaced` prop, whichever you prefer)
@@ -27,6 +29,20 @@ My primary focus when building out this project was to demonstrate my strengths 
 2. Navigation guards should be in their own file(s) depending on needs
 
 ---
+
+## What Works
+1. Connecting using Metamask (The network selectors don't define how you want to connect, all will use Metamask)
+2. Navigating to next view once connected. 
+3. Preventing navigation to Wallet before being connected
+3. Checkboxes as a gate befor allowing to connect
+3. Displaying the wallet balance.
+
+---
+
+## Isssue
+1. For some reason my IP is locked out for a few hours for spamming the faucet. I was messing around with the Ropsten test network and apparently they have limits. Oops.
+---
+
 ## Project setup
 ```
 yarn install
