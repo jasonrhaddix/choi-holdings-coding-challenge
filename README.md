@@ -1,4 +1,4 @@
-<p  align="center"><img  width=80%  src="https://raw.githubusercontent.com/jasonrhaddix/choi-holdings-coding-challenge/master/assets/screen.jpg"></p>
+<p  align="center"><img  width=80%  src="https://raw.githubusercontent.com/jasonrhaddix/choi-holdings-coding-challenge/master/src/assets/screen.jpg"></p>
 
 # Choi Holdings Coding Challenge
 
